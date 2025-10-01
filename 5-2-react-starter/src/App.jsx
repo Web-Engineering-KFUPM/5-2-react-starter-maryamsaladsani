@@ -13,11 +13,17 @@ function App() {
         <div className="cards-container">
           {/* TODO: Import and render StudentCard components here */}
             <StudentCard/>
+            <StudentCard name="Maryam" id="202263480" dept="ICS" />
+            <StudentCard name="Sadeem" id="202251580" dept="ICS" />
         </div>
       </main>
     </div>
   )
 }
+
+
+
+
 
 export default App
 
