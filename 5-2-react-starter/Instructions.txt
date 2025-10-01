@@ -52,7 +52,6 @@ Hints:
 
 - To render this component inside your app, import it into App.jsx:
   import StudentCard from './components/StudentCard';
-
   function App() {
     return (
       <div>
